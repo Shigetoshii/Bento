@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'Yandex Mail',
+			name: 'Google Mail',
 			icon: 'mail',
-			link: 'https://mail.yandex.ru/',
+			link: 'https://mail.google.com/mail/',
 		},
 		{
 			id: '3',
-			name: 'Google Mail',
-			icon: 'inbox',
-			link: 'https://mail.google.com/mail/',
+			name: 'VK',
+			icon: 'heart-crack',
+			link: 'https://vk.com/im',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Aliexpress',
-			icon: 'package',
-			link: 'https://aliexpress.ru/',
+			name: 'Yandex Music',
+			icon: 'music',
+			link: 'https://music.yandex.ru/',
 		},
 		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'tabletAstu',
+			icon: 'calendar-days',
+			link: 'https://table.astu.org/#/timetable/group/%D0%94%D0%98%D0%98%D0%AD%D0%91_11%2F2',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Yandex Music',
-					link: 'https://music.yandex.ru/',
+					name: 'Github',
+					link: 'https://github.com/',
 				},
 				{
-					name: 'VK',
-					link: 'https://vk.com/im',
+					name: 'Yandex Mail',
+					link: 'https://mail.yandex.ru/',
 				},
 				{
-					name: 'Tablet Astu',
-					link: 'https://table.astu.org/#/timetable/group/%D0%94%D0%98%D0%98%D0%AD%D0%91_11%2F2',
-				},
-				{
-					name: 'LOLZ',
+					name: 'LolzTeam',
 					link: 'https://zelenka.guru/',
+				},
+				{
+					name: 'Hot Games',
+					link: 'https://hot-game.info/',
 				},
 			],
 		},
