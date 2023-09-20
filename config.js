@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://mail.yandex.ru/',
 				},
 				{
-					name: 'LolzTeam',
-					link: 'https://zelenka.guru/',
+					name: 'Steam',
+					link: 'https://store.steampowered.com/',
 				},
 				{
 					name: 'Hot Games',
