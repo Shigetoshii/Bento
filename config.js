@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Yandex.Mail',
+			name: 'Yandex Mail',
 			icon: 'mail',
 			link: 'https://mail.yandex.ru/',
 		},
 		{
 			id: '3',
-			name: 'vk',
-			icon: 'cat',
-			link: 'https://vk.com/im',
+			name: 'Google Mail',
+			icon: 'inbox',
+			link: 'https://mail.google.com/mail/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Aliexpress',
+			icon: 'package',
+			link: 'https://aliexpress.ru/',
 		},
 		{
 			id: '6',
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'user',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Yandex Music',
+					link: 'https://music.yandex.ru/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'VK',
+					link: 'https://vk.com/im',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Tablet Astu',
+					link: 'https://table.astu.org/#/timetable/group/%D0%94%D0%98%D0%98%D0%AD%D0%91_11%2F2',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LOLZ',
+					link: 'https://zelenka.guru/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
-			id: '2',
+			icon: 'laptop',
+			id: '2',	
 			links: [
 				{
-					name: 'TabletAstu',
-					link: 'https://table.astu.org/#/timetable/group/%D0%94%D0%98%D0%98%D0%AD%D0%91_11%2F2',
+					name: 'RuTracker',
+					link: 'https://rutracker.org/forum/',
 				},
 				{
-					name: 'Rutracker',
-					link: 'https://rutracker.org/forum/index.php',
+					name: '4PDA',
+					link: 'https://4pda.to/forum/',
 				},
 				{
 					name: 'AnySwitch',
 					link: 'https://www.anyswitch.xyz/switches/',
 				},
 				{
-					name: '4pda',
-					link: 'https://4pda.to/forum/',
+					name: 'Wallpapers',
+					link: 'https://wallhaven.cc/',
 				},
 			],
 		},
