@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Расписание',
+					link: 'https://table.astu.org/#/timetable/group/%D0%94%D0%98%D0%98%D0%AD%D0%91_11%2F2',
 				},
 				{
 					name: 'Dribbble',
