@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Расписание',
+					name: 'TabletAstu',
 					link: 'https://table.astu.org/#/timetable/group/%D0%94%D0%98%D0%98%D0%AD%D0%91_11%2F2',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Rutracker',
+					link: 'https://rutracker.org/forum/index.php',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'AnySwitch',
+					link: 'https://www.anyswitch.xyz/switches/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '4pda',
+					link: 'https://4pda.to/forum/',
 				},
 			],
 		},
